@@ -13,9 +13,9 @@
 - <b>Project 5: Loan Calculator</b>
   - [Project 5: Loan Calculator](https://github.com/lmo9d/)
 - <b>Project 6: Booklist</b>
-  -[Project 6: Booklist](https://github.com/lmo9d/)
+  - [Project 6: Booklist](https://github.com/lmo9d/)
 
-- <b>Project</b>
+- <b>JavaScript Project</b>
 
 - <b>Python Project</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
