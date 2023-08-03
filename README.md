@@ -3,17 +3,17 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Project 1: Animated Login Form </b>
-  - [Project 1: Animated Login Form](https://github.com/lmo9d)
+  - [Project 1: Animated Login Form](https://github.com/lmo9d/Coding_Projects.git)
 - <b>Project 2: Promotional Email Demo</b>
-  - [Project 2: Promotional Email Demo](https://github.com/lmo9d)
+  - [Project 2: Promotional Email Demo](https://github.com/lmo9d/Coding_Projects.git)
 - <b>Project 3: Studio 21</b>
-  - [Project 3: Studio 21](https://github.com/lmo9d/)
+  - [Project 3: Studio 21](https://github.com/lmo9d/Coding_Projects.git)
 - <b>Project 4: Lake Tahoe Travel</b>
-  - [Project 4: Lake Tahoe](https://github.com/lmo9d/)
+  - [Project 4: Lake Tahoe](https://github.com/lmo9d/Coding_Projects.git)
 - <b>Project 5: Loan Calculator</b>
-  - [Project 5: Loan Calculator](https://github.com/lmo9d/)
+  - [Project 5: Loan Calculator](https://github.com/lmo9d/Coding_Projects.git)
 - <b>Project 6: Booklist</b>
-  - [Project 6: Booklist](https://github.com/lmo9d/)
+  - [Project 6: Booklist](https://github.com/lmo9d/Coding_Projects.git)
 
 - <b>JavaScript Project</b>
 
