@@ -37,10 +37,10 @@
 
 <h2>💻 Cloud Projects</h2>
 
-- [How to Manage Compliance in Azure AD](https://github.com/lmo9d/Cyb3rProjects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
+- [How to Manage Compliance in Azure AD](https://github.com/lmo9d/Cloud-Projects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
 
 <h2>👨‍💻 Certifications</h2
 
