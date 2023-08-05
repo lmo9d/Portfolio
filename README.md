@@ -22,14 +22,11 @@
 
 <h2>💻 Cybersecurity Projects</h2>
 
-- [Active Directory Demo](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Active Directory Demo](https://github.com/lmo9d/Cyb3rProjects.git)
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Ransomware Project] (https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- [How to Create a KeyLogger (C#)](https://github.com/lmo9d/Cyb3rProjects.git)
+  
+- [Ransomware Demonstration (C#)](https://github.com/lmo9d/Cyb3rProjects.git)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lmo9d)
@@ -40,10 +37,10 @@
 
 <h2>💻 Cloud Projects</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [How to Manage Compliance in Azure AD](https://github.com/lmo9d/Cyb3rProjects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
+- [How to Create a KeyLogger ](https://github.com/lmo9d/Cyb3rProjects.git)
 
 <h2>👨‍💻 Certifications</h2
 
