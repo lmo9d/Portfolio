@@ -23,6 +23,12 @@
 <h2>💻 Cybersecurity Projects</h2>
 
 - [Active Directory Demo](https://github.com/lmo9d/Cyb3rProjects.git)
+  
+- [Configuring and Updating Microsoft Defender](https://github.com/lmo9d/Cyb3rProjects.git)
+  
+- [Enabling and Configuring Microsoft Firewall](https://github.com/lmo9d/Cyb3rProjects.git)
+  
+- [Network Traffic Analysis using TCPDUMP and WireShark](https://github.com/lmo9d/Cyb3rProjects.git)
 
 - [How to Create a KeyLogger (C#)](https://github.com/lmo9d/Cyb3rProjects.git)
   
@@ -37,7 +43,7 @@
 
 <h2>💻 Cloud Projects</h2>
 
-- [How to Manage Compliance in Azure AD](https://github.com/lmo9d/Cloud-Projects.git)
+- [How to Manage Device Compliance in Azure AD](https://github.com/lmo9d/Cloud-Projects.git)
 - [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
 - [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
 - [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
