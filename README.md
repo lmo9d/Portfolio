@@ -32,7 +32,7 @@
 
 - [How to Create a KeyLogger (C#)](https://github.com/lmo9d/Cyb3rProjects.git)
   
-- [Ransomware Demonstration (C#)](https://github.com/lmo9d/Cyb3rProjects.git)
+- [SIEM Software Demo](https://github.com/lmo9d/Cyb3rProjects.git)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lmo9d)
@@ -54,7 +54,6 @@
 - CompTia Security + SY0-601
 - CompTia Network + N10-008
 
-<h2> 🤳 Connect with me:</h2>
 
 
 Here are some ideas to get you started:
