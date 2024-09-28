@@ -48,6 +48,13 @@
 - [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
 - [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
 
+<h2>💻 Service Now Projects</h2>
+
+- [Creating Dashboard & Reports for MSP's](https://github.com/lmo9d/Cloud-Projects.git)
+- [Creating Reports for Engineering](https://github.com/lmo9d/Cloud-Projects.git)
+- [Creating Metrics for MSP's in ServiceNow](https://github.com/lmo9d/Cloud-Projects.git)
+
+
 <h2>👨‍💻 Certifications</h2
 
 - Microsoft Certified: Azure Administrator Associate AZ -104
