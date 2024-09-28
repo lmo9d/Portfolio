@@ -63,17 +63,14 @@
 - CompTia Security + SY0-601
 - CompTia Network + N10-008
 
-
-
-
+###
+###
 Here are some other things Luis is up to:
-
+###
 - 🔭 I’m currently working on Microsoft Certifications
-- 🌱 I’m currently learning Azure Tools and ServiceNow customizations
-- 👯 I’m looking to collaborate on Projects
+- 🌱 I’m currently learning Azure Tools, AWS, SQL & ServiceNow Customizations 
+- 👯 I’m looking to collaborate on Projects, Apps & API's
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
 -->
