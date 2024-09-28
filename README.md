@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luis! <br/><a href="https://github.com/lmo9d/Portfolio">My Interests include Software Development</a>, <a href="https://github.com/lmo9d/Portfolio">Cybersecurity</a>, <a href="https://github.com/lmo9d/Portfolio">& Cloud Engineering</a></h1>
+<h1>Hi, I'm Luis! <br/><a href="https://github.com/lmo9d/Portfolio">My Interests include Software Development</a>, <a href="https://github.com/lmo9d/Portfolio">Cybersecurity</a>, <a href="https://github.com/lmo9d/Portfolio"> Cloud Engineering & ServiceNow</a></h1>
 
 <h2>💻 Software Development Projects:</h2>
 
@@ -50,7 +50,9 @@
 
 <h2>👨‍💻 Certifications</h2
 
+- Microsoft Certified: Azure Administrator Associate AZ -104
 - Microsoft Certified Azure Fundamentals AZ-900
+- Microsoft Certified Azure AI Fundamentals AI-900
 - CompTia Security + SY0-601
 - CompTia Network + N10-008
 
@@ -58,7 +60,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Microsoft Certifications
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
