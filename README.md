@@ -46,7 +46,7 @@
 - [Azure Virtual Desktop (Screen Capture Setup & Enforcement via Group Policy) ](https://github.com/lmo9d/Cloud-Projects.git)
 - [How to setup Kiosk Mode on Samsung Tablets via Intune ](https://github.com/lmo9d/Cloud-Projects.git)
 - [Blocking Copilot & Microsoft 365 Copilot on AVD & Windows 10 Pro devices](https://github.com/lmo9d/Cloud-Projects.git)
-- [Test](https://github.com/lmo9d/Cloud-Projects.git)
+- [Microsoft Entra Onboarding | Offboarding Script](https://github.com/lmo9d/Cloud-Projects.git)
 
 <h2>💻 Service Now Projects</h2>
 
