@@ -43,10 +43,10 @@
 
 <h2>💻 Cloud Projects</h2>
 
-- [How to Manage Device Compliance in Azure AD](https://github.com/lmo9d/Cloud-Projects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
-- [How to Create a KeyLogger ](https://github.com/lmo9d/Cloud-Projects.git)
+- [How to setup Kiosk Mode on Samsung Tablets via Intune ](https://github.com/lmo9d/Cloud-Projects.git)
+- [Azure Virtual Desktop (Screen Capture Setup & Enforcement via Group Policy) ](https://github.com/lmo9d/Cloud-Projects.git)
+- [Blocking Copilot & Microsoft 365 Copilot on AVD & Windows 10 Pro devices](https://github.com/lmo9d/Cloud-Projects.git)
+- [Test](https://github.com/lmo9d/Cloud-Projects.git)
 
 <h2>💻 Service Now Projects</h2>
 
@@ -57,7 +57,7 @@
 
 <h2>👨‍💻 Certifications</h2
 
-- Microsoft Certified: Azure Administrator Associate AZ -104
+- Microsoft Certified: Azure Administrator Associate AZ-104
 - Microsoft Certified Azure Fundamentals AZ-900
 - Microsoft Certified Azure AI Fundamentals AI-900
 - CompTia Security + SY0-601
